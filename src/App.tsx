@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <div className="App">始めるで</div>;
+  return <div className="App">始めめえええええるで</div>;
 }
 
 export default App;
